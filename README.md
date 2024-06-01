@@ -24,7 +24,7 @@
 #### To run this project locally, follow these steps:
 
 ### Clone the repository:
-#### git clone https://github.com/your-username/react-chartjs-app.git
+#### git clone https://github.com/LORD-JINXXX/React-ChartJS.git
 #### cd react-chartjs-app
 
 ### Install dependencies:
